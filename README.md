@@ -1,2 +1,2 @@
 # calculator_java
-calculator for usual and forcomplex nums
+calculator for usual and for complex nums
